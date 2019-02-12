@@ -4,7 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Assignment1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CPUT_TEST" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CPUT_TEST/HelloWorld" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/HelloWorld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HelloWorld2" vcs="Git" />
   </component>
 </project>
